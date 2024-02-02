@@ -11,4 +11,5 @@
 ![My Picture](https://i.ibb.co/Kh87Djz/EX2PART1.jpg))
 ![My Picture](https://i.ibb.co/7gnHVgn/EX2-PART1-B.jpg)
 
-קישור למשחק : https://liron02319.itch.io/ex2-unitypart1
+You can try the game on [ClickHere](https://liron02319.itch.io/ex2-unitypart1)
+
